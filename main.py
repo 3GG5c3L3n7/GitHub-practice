@@ -1,2 +1,2 @@
-name = "Big G"
+name = input("Enter name: ")
 print(f'Hello {name}')
